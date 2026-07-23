@@ -17,12 +17,10 @@ import Third from "@/components/Third";
 
 export default function Home() {
   return (
-    // <div className="flex flex-col dark:bg-black">
     <div className="flex flex-col bg-white">
       <First/>
       <Second/>
       <Third/>
-      <Fourth/>
       <Fifth/>
       <Sixth/>
       <Seventh/>
@@ -32,7 +30,6 @@ export default function Home() {
       <Testimonials/>
       <AwardSection/>
       <LatestInsights/>
-      <ResourceAuditSection/>
       <CTA/>
       <Footer/>
     </div>

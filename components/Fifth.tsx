@@ -77,7 +77,7 @@ export default function Fifth() {
     <section className="py-24 bg-white">
       <div className="mx-auto max-w-7xl px-6">
         {/* Heading */}
-        <h2 className="text-6xl font-bold text-black">
+        <h2 className="text-5xl md:text-6xl font-bold text-black">
           Choose Your Brand Journey
         </h2>
 
@@ -107,7 +107,7 @@ export default function Fifth() {
 
                 <div className="flex flex-1 items-center">
                   <h3
-                    className={`text-5xl font-bold transition ${
+                    className={`text-2xl md:text-4xl font-bold transition ${
                       active === index
                         ? "text-black"
                         : "text-gray-300 group-hover:text-gray-500"
@@ -140,8 +140,8 @@ export default function Fifth() {
               src={services[active].image}
               alt={services[active].title}
               width={700}
-              height={450}
-              className="w-full rounded object-cover"
+              height={400}
+              className="w-full h-[600px] rounded object-cover"
             />
 
             <p className="mt-8 text-xl leading-10 text-gray-700">

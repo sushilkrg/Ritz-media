@@ -78,7 +78,7 @@ export default function Second() {
                   }
                 `}
               >
-                <h3 className="text-[90px] font-extrabold leading-none tracking-tight text-[#08154D]">
+                <h3 className="text-4xl font-extrabold leading-none tracking-tight text-[#08154D]">
                   {item.value}
                 </h3>
 

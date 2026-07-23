@@ -50,11 +50,11 @@ export const Footer: React.FC = () => {
             {/* Logo */}
             <div>
               <Image
-                src="https://ritzmediaworld.com/logo/rmw.logo.png" // Replace with your actual logo image path
+                src="https://ritzmediaworld.com/logo/rmw.logo.png" 
                 alt="RITZ MEDIA WORLD"
-                width={160}
-                height={60}
-                className="w-40 h-auto"
+                width={120}
+                height={40}
+                // className="w-40 h-auto"
               />
             </div>
 

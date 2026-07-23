@@ -35,7 +35,7 @@ export default function LatestInsights() {
               Latest Insights
             </p>
 
-            <h2 className="text-[62px] font-bold leading-[1.08] text-black mb-5">
+            <h2 className="text-[36px] md:text-[62px] font-bold leading-[1.08] text-black mb-5">
               Here&apos;s what we&apos;ve been up to
             </h2>
 

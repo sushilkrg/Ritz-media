@@ -110,7 +110,7 @@ export default function Ninth() {
               alt="Benefits"
               width={700}
               height={850}
-              className="h-[780px] w-[650px] object-cover"
+              className="h-[720px] w-[650px] object-cover"
             />
           </div>
         </div>

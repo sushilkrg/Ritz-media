@@ -65,11 +65,11 @@ export default function Tenth() {
           {/* Navigation */}
           <div className="hidden gap-3 lg:flex">
 
-            <button className="journey-prev flex h-12 w-12 items-center justify-center rounded-full border border-black hover:bg-black hover:text-white transition">
+            <button className="journey-prev flex h-12 w-12 items-center justify-center rounded-full border border-black text-black hover:bg-black hover:text-white transition">
               <ArrowLeft size={22} />
             </button>
 
-            <button className="journey-next flex h-12 w-12 items-center justify-center rounded-full border border-black hover:bg-black hover:text-white transition">
+            <button className="journey-next flex h-12 w-12 items-center justify-center rounded-full border border-black text-black hover:bg-black hover:text-white transition">
               <ArrowRight size={22} />
             </button>
 

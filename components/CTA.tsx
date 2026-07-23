@@ -14,7 +14,7 @@ export const CTA: React.FC<CallToActionProps> = ({
   onButtonClick,
 }) => {
   return (
-    <section className="w-full max-w-full mx-auto py-12 px-20">
+    <section className="w-full max-w-full mx-auto py-12 px-4 md:px-20">
       <div className="bg-[#f5f5f5] rounded-sm py-16 px-6 text-center flex flex-col items-center justify-center shadow-sm">
         {/* Main Heading */}
         <h2 className="text-3xl md:text-4xl font-extrabold text-black tracking-tight mb-3">

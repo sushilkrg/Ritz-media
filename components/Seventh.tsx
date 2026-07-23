@@ -86,7 +86,7 @@ export default function Seventh() {
                     alt={story.title}
                     width={850}
                     height={650}
-                    className="h-[520px] w-full object-cover"
+                    className="h-[580px] w-full object-cover"
                   />
                 </div>
 
@@ -124,7 +124,7 @@ export default function Seventh() {
                             className="text-[#C88A2C]"
                           />
 
-                          <h4 className="mt-5 text-6xl font-bold text-black">
+                          <h4 className="mt-5 text-3xl md:text-5xl font-bold text-black">
                             {item.value}
                           </h4>
 

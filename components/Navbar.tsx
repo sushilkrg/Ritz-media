@@ -20,8 +20,8 @@ export default function Navbar() {
           <Image
             src="https://ritzmediaworld.com/logo/rmw.logo.png"
             alt="Logo"
-            width={70}
-            height={70}
+            width={60}
+            height={60}
             priority
           />
         </Link>
