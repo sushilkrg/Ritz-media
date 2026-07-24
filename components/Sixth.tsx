@@ -121,7 +121,7 @@ export default function Sixth() {
                     {service.category}
                   </span>
 
-                  <h3 className="mt-3 text-5xl font-semibold leading-tight text-black">
+                  <h3 className="mt-3 text-3xl font-semibold leading-tight text-black">
                     {service.title}
                   </h3>
 

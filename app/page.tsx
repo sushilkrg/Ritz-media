@@ -31,6 +31,7 @@ export default function Home() {
       <Testimonials/>
       <AwardSection/>
       <LatestInsights/>
+      <ResourceAuditSection/>
       <CTA/>
       <Footer/>
     </div>
