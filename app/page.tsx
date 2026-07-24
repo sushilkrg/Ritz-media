@@ -21,6 +21,7 @@ export default function Home() {
       <First/>
       <Second/>
       <Third/>
+      <Fourth/>
       <Fifth/>
       <Sixth/>
       <Seventh/>
